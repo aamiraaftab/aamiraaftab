@@ -9,7 +9,7 @@
 - 💻 Passionate about **Python Development**, **Data Analytics**, and **Cybersecurity**  
 - 🌱 Currently learning **Power BI, SQL optimization, and advanced data visualization**  
 - 👯 Open to collaborate on **data-driven projects** & **open-source contributions**  
-- 📧 Reach me at **[aaftabaamir1994@gmail.com]** *(Update this with your email)*  
+- 📧 Reach me at **[aaftabaamir1994@gmail.com]**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/aamir-aaftab/) | [GitHub](https://github.com/aamiraaftab)
 
 ---
